@@ -1,7 +1,7 @@
 
 # 🛠️ Directory Bruter
 
-![DirectoryBrutser])
+![DirectoryBrutser](https://raw.githubusercontent.com/lalaio1/PathBrut/main/8d131694.png)
 
 **Directory Bruter** is a powerful tool for directory brute-forcing on web servers. It helps to discover hidden directories and files by making HTTP requests with a list of potential directory names and extensions.
 
